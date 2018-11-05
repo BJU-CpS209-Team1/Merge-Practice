@@ -15,7 +15,7 @@ namespace Guess {
       pickDifficulty.Items.Add("Hard");
 
       // Defaut to Easy
-      pickDifficulty.SelectedIndex = 0;
+      pickDifficulty.SelectedIndex = 1;
             // hi isaac
             // hi again
     }
