@@ -16,6 +16,7 @@ namespace Guess {
 
       // Defaut to Easy
       pickDifficulty.SelectedIndex = 0;
+            // hi isaac
     }
 
     private void btnStart_Clicked(object sender, EventArgs e) {
