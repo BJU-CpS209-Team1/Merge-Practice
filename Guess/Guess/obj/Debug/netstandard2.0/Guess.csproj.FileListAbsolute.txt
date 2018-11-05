@@ -1,0 +1,13 @@
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\bin\Debug\netstandard2.0\Guess.deps.json
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\bin\Debug\netstandard2.0\Guess.dll
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\bin\Debug\netstandard2.0\Guess.pdb
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\Guess.csprojAssemblyReference.cache
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\Guess.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\Guess.AssemblyInfoInputs.cache
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\Guess.AssemblyInfo.cs
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\Guess.dll
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\Guess.pdb
+C:\Users\isaac\Documents\Projects\Guess\Guess\Guess\obj\Debug\netstandard2.0\GamePage.xaml.g.cs
