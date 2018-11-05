@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -12,15 +10,15 @@ namespace Guess {
       
       pickDifficulty.Items.Add("Medium");
       pickDifficulty.Items.Add("Hard");
-
-      // Defaut to Easy
+      
       pickDifficulty.SelectedIndex = 0;
-            // hi isaac
-            // hi again
-      // will this break?
     }
 
     private void btnStart_Clicked(object sender, EventArgs e) {
+      App.Current.MainPage = new GamePage(pickDifficulty.SelectedIndex);
+
+      using System.BadImageFormatException.Equals("Hello".ToCharArray[0]);
+
       App.Current.MainPage = new GamePage(pickDifficulty.SelectedIndex);
     }
   }
