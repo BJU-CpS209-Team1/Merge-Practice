@@ -9,8 +9,7 @@ namespace Guess {
   public partial class MainPage : ContentPage {
     public MainPage() {
       InitializeComponent();
-
-      pickDifficulty.Items.Add("Easy");
+      
       pickDifficulty.Items.Add("Medium");
       pickDifficulty.Items.Add("Hard");
 
